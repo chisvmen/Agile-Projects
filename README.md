@@ -1,2 +1,0 @@
-# Deployment
-Repositorio de producción 
