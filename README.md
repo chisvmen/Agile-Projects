@@ -15,10 +15,19 @@ Proyectos -
 
 
 https://es.qr-code-generator.com/
+
 chrome://inspect/#devices
+
 https://excalidraw.com/
+
 https://app.mural.co/signin
+
 https://base64.guru/converter/decode/image
+
 https://http.cat/
+
 https://ibm.monday.com/auth/login_monday/sso
+
 https://www.figma.com/
+
+https://proto.io/
